@@ -5,6 +5,7 @@
 🚀 Projects:
 
 Lost2Find: A Flutter app for managing lost and found items, utilizing Firebase for backend services.
+
 Preloved Clothing: An e-commerce platform built with Flask, Python, and MongoDB, featuring a user-friendly interface and admin dashboard.
 
 🔧 Skills:
