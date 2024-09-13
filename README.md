@@ -15,7 +15,7 @@ C++, Python, JavaScript, HTML, CSS, Bootstrap, Flask,Oracle, MySQL, MongoDB, Man
 
 📚Courses:
 
-AQA(Software Quality Assurance), Software Requirement Engineering, Web Engineering, OOP(Object Oriented Programming), DSA(Data Structures and Algorithms), DBMS(Database Management System)
+SQA(Software Quality Assurance), Software Requirement Engineering, Web Engineering, OOP(Object Oriented Programming), DSA(Data Structures and Algorithms), DBMS(Database Management System)
 
 
 📫 Connect with Me:
