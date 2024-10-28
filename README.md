@@ -1,6 +1,6 @@
 👋Hi I'm Laiba Liaquat (Software Engineer)👩‍💻
 
-🎓Fresh Graduate from PUCIT(Punjab University College Of Information Technology)
+🎓I'm doing Bachelors in Software Engineering from PUCIT(Punjab University College Of Information Technology)
 
 🚀 Projects:
 
